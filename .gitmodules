@@ -1,0 +1,9 @@
+[submodule "custom/plugins/k"]
+	path = custom/plugins/k
+	url = https://github.com/shibli049/k.git
+[submodule "custom/plugins/zsh-autosuggestions"]
+	path = custom/plugins/zsh-autosuggestions
+	url = https://github.com/shibli049/zsh-autosuggestions.git
+[submodule "custom/plugins/zsh-syntax-highlighting"]
+	path = custom/plugins/zsh-syntax-highlighting
+	url = https://github.com/shibli049/zsh-syntax-highlighting.git
