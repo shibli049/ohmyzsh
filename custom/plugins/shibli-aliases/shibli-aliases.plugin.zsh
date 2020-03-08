@@ -1,0 +1,6 @@
+alias dk="docker"
+alias dkps="docker ps"
+alias dkpsa="docker ps -a"
+alias dkc="docker-compose"
+alias dkcu="docker-compose up"
+alias dkcd="docker-compose down"
