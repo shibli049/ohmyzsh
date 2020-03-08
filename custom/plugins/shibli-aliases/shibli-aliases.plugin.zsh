@@ -1,6 +1,7 @@
 alias dk="docker"
 alias dkps="docker ps"
 alias dkpsa="docker ps -a"
+alias dkex="docker exec -it"
 alias dkc="docker-compose"
 alias dkcu="docker-compose up"
 alias dkcd="docker-compose down"
