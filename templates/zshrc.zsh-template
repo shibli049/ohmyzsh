@@ -90,7 +90,6 @@ plugins=(
         mix
         shibli-aliases
         sudo
-        vscode
         wd
         web-search
         z
