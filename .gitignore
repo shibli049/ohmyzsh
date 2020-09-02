@@ -1,4 +1,5 @@
 # temp files directories
+.idea/
 cache/
 log/
 *.swp
